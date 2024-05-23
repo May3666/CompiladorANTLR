@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "branch1",
+    "copiaCompilador",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "branch1": "main",
+    "copiaCompilador": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "branch1",
+    "copiaCompilador",
+    "origin"
+  ]
+}
